@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💫 About Me:
 Hi there! I'm Akshat Nayak, a passionate and curious Computer Science undergraduate at VIT Bhopal with hands-on experience in full-stack development, especially the MERN stack (MongoDB, Express.js, React.js, Node.js). I love building responsive and efficient web applications that solve real-world problems and enhance user experience.<br><br>🧠 I'm always learning and currently focused on:<br><br>Deepening my knowledge in DSA and OOPs<br><br>Building scalable applications with React.js and Node.js<br><br>Exploring Cloud Computing and backend architecture<br><br>💼 I recently completed an internship at ToolPill Technologies as a Frontend Developer, where I:<br><br>Optimized web performance and codebase<br><br>Delivered intuitive UI using HTML, CSS, and JavaScript<br><br>
 
